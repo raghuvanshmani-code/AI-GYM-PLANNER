@@ -1,0 +1,5 @@
+{
+  "name": "AI Diet Planner",
+  "description": "An intelligent web application that generates personalized weekly diet plans based on user's health goals, preferences, and lifestyle, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
